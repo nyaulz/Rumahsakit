@@ -434,5 +434,5 @@ AddHook("OnVarlist", "SurgMainHook", function(var)
    return true
 end)
 
-logMsg("`6[`6#nYauL1763 SYSTEM`6] `aAuto Surgery Script Ready! Type /surg")
+logMsg("`6[`6#nYauL1763 AUTO SURG`6] `aAuto Surgery Script Ready! Type /surg")
 showSurgMenu()
